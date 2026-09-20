@@ -258,4 +258,4 @@ The environment uses a robust **Init-Container pattern**:
 ---
 
 ## 📜 License
-© 2026 MNH (@noumanic). Licensed under the MIT License.
+© 2026 Nouman Hafeez (@noumanh11). Licensed under the MIT License.
